@@ -1,0 +1,48 @@
+body {
+    width: 100%;
+    background: aquamarine;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    width: 17%;
+    height: 20%;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    margin: 4%;
+    text-shadow: 5px 0 white;
+    font-size: 6rem;
+    color: red;
+    font-family: 'Acme', sans-serif;
+}
+
+p {
+    font-size: 2rem;
+    color: red;
+    text-shadow: 1px 1px white;
+}
+
+#btn {
+    padding-top: 2%;
+}
+
+#footer {
+    margin-top: 4%;
+}
